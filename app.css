@@ -1,0 +1,30 @@
+/*Hexidecimal rrggbb*/
+
+h1{
+	color: #54206E;
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px solid rgba(255,100,80,.4);
+}
+
+li{
+	color: rgb(11,99,150);
+}
+
+h4{
+	/*red, green, blue, alpha (0-1).  Alpha value is transparency*/
+	color: rgba(11,99,150,.6);
+	background: rgb(255,100,80);
+
+}
+
+body{
+/*	background: url("https://previews.123rf.com/images/prapann/prapann1607/prapann160700004/59445035-plywood-texture-with-pattern-natural-wood-grain-for-background-.jpg");
+	background-repeat: no-repeat;
+	bacground-size: cover;*/
+	background: rgba(255,84,23,.2);
+}
+
+/*Color schemes: Hexadecimal*/

@@ -1,0 +1,15 @@
+.col-lg-12{
+	border: 2px solid red;
+}
+
+.col-lg-6{
+	border: 2px solid red;
+}
+
+.leftFormContent{
+	border: 2px solid blue;
+}
+label{
+	font-size:90%;
+
+}

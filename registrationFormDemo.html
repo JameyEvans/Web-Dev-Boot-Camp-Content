@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Form Demo</title>
+</head>
+<body>
+	<h1>Register</h1>
+
+	<form>
+		<div><label for="firstName">First Name: </label>
+		<input name="firstName" id="firstName" type="text" placeholder="John" required>
+
+		<label for="lastName">Last Name: </label>
+		<input name="lastName" id="lastName" type="text" placeholder="Smith" required></div>
+
+		<div><label for="male">Male</label>
+			<input name="gender" type="radio" id="male" value="male">
+
+			<label for="female">Female</label>
+			<input name="gender" type="radio" id="female" value="female">
+
+			<label for="other">Other</label>
+			<input name="gender" type="radio" id="other" value="other">
+		</div>
+
+		<div><label for="email">Email: </label>
+			<input name="email" id="email" type="email" placeholder="your email" required>
+
+			<input name="password" id="password" type="password" placeholder="your password" minlength="5" maxlength="10">
+		</div>
+
+		<div><label for="Birthday">Birthday: </label>
+			<input name="Birthday" type="Date" value="2018-04-03">
+		</div>
+
+		<div><label for="termsCheckBox">I agree to the terms and conditions </label>
+		<input name="termsCheckBox" type="checkbox">
+		</div>
+
+		<input type="Submit">
+
+
+
+	</form>
+
+</body>
+</html>

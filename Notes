@@ -1,0 +1,23 @@
+HTML Attributes
+	Solid Reference at MDN HTML Attributes
+
+	Attributes describe elements:
+
+	src for images
+	i.e. <img src="https://somewebsite.com/somephoto">
+
+	href for links
+	i.e. <a href="https://www.google.com">This is the description</a>
+
+Html tables:
+
+
+Html forms:
+<form></form>
+<input>
+<lable></label>
+validations
+
+CSS:
+	www.csszengarden.com
+	

@@ -1,0 +1,66 @@
+/*body{
+	font-size:10px;
+}
+
+p{
+	font-family:"Open Sans Condensed";
+	font-size:2.0em;
+	font-weight: 300;
+	line-height: 1.5;
+	text-align: justify;
+}
+
+h1{
+	font-family:"Georgia";
+	font-size:5.0em;
+	font-weight: bold;
+	text-decoration:underline;
+}*/
+
+div{
+	width:300px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+p{
+	border: 2px solid blue;
+	/*width: 200px;*/
+	width: 25%;
+	/*height: 300px;*/
+	/*padding: 10px;*/
+	padding-left: 40px;
+	/*margin: 50px;*/
+	/*margin-left: 100px;*/
+	/*margin: 20px 40px 500px 100px;*/
+	margin: 25 auto 25 auto;
+}
+h1{
+	font-family:"helvetica";
+	text-align:center;
+}
+td{
+	width: 100px;
+	height: 100px;
+	margin: 0 0 0 0;
+}
+tr td:nth-of-type(2){
+	border-left: 5px solid black;
+	border-right: 5px solid black;
+}
+tr:nth-of-type(2) td{
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
+table{
+	margin:0 0 0 0;
+	padding: 0px;
+	border-collapse: collapse;
+
+}
+body{
+	align-content: center;
+}

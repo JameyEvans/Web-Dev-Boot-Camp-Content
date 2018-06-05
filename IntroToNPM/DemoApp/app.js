@@ -1,0 +1,5 @@
+console.log("From app.js");
+var catMe = require("cat-me");
+var jokes = require("knock-knock-jokes");
+
+console.log(jokes());

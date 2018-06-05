@@ -1,0 +1,36 @@
+body{
+	background-color:#a7a7a7;
+	}
+
+.container{
+	background-color: #d2d2d2;
+	width:80%;
+	height:auto;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.title{
+	background-color: #0079c2;
+}
+
+.distContainer{
+	border: 2px solid red;
+	width: 46%;
+	height: 100%;
+	float: left;
+}
+
+.performanceContainer{
+	border: 2px solid blue;
+	width: 46%;
+	height: 70%;
+	float: left;
+}
+
+.partSearchContainer{
+	border: 2px solid purple;
+	width: 46%;
+	height: 26%;
+	float: left;
+}
